@@ -7,4 +7,4 @@ para a graduação na instituição FATEC PRAIA GRANDE.
 
 Autores: Guilherme Soares Brando, Nyckolas Vives Ferracine do Vale Quaresma.
 
-o CSV utilizado está disponível na plataforma Kaggle, através do seguinte link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+O CSV utilizado está disponível na plataforma Kaggle, através do seguinte link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
